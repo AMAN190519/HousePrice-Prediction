@@ -123,5 +123,5 @@ HousePriceProject/
 
 \- LinkedIn: https://www.linkedin.com/in/aman-kumar-318a9a377/ 
 
-\- GitHub: 
+\- GitHub: https://github.com/AMAN190519/HousePrice-Prediction
 
