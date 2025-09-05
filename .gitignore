@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# Environment files
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ignore other CSV or pickle files by default, but keep final_pipeline.pkl and house_prices_clean.csv
+# *.csv
+# *.pkl
