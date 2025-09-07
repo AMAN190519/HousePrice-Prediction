@@ -37,15 +37,23 @@ This project implements an \*\*end-to-end machine learning pipeline\*\* to predi
 HousePriceProject/
 │── data/
 │   └── house_prices_clean.csv
+
+
 │── models/
 │   └── final_pipeline.pkl
+
+
 │── scripts/
 │   ├── HpCODE.ipynb
 │   ├── final_pipeline.py
 │   ├── app.py
 │   └── test_flask_api.py
+
+
 │── artifacts/
 │   └── input_template.json
+
+
 │── requirements.txt
 │── README.md
 
