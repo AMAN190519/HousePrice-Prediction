@@ -43,16 +43,16 @@ HousePriceProject/
 │   └── final_pipeline.pkl               # Trained XGBoost pipeline
 │
 ├── scripts/
-│   ├── HpCODE.ipynb                     # Jupyter notebook with    full code & analysis
+│   ├── HpCODE.ipynb                     # Code    
 │   ├── final_pipeline.py                # Training script
 │   ├── app.py                           # Flask API for deployment
 │   └── test_flask_api.py                # Script to test API
 │
 ├── artifacts/
-│   └── input_template.json              # Example JSON input for API
+│   └── input_template.json              # JSON input for API
 │
 ├── requirements.txt                     # Python dependencies
-└── README.md                            # Project summary, instructions, and folder overview
+└── README.md                            # Project summary
 
 
 \## ⚡ How to Run
