@@ -35,31 +35,24 @@ This project implements an \*\*end-to-end machine learning pipeline\*\* to predi
 
 
 HousePriceProject/
-
-│── data/
-
-│   └── house\_prices\_clean.csv
-
-│── models/
-
-│   └── final\_pipeline.pkl
-
-│── scripts/
-
-│   ├── final\_pipeline.py       # Training script
-
-│   ├── app.py                  # Flask API
-
-│   └── test\_flask\_api.py       # Test script
-
-│── artifacts/
-
-│   └── input\_template.json     # Example JSON input
-
-│── requirements.txt
-
-│── README.md
-
+│
+├── data/
+│   └── house_prices_clean.csv           # Cleaned dataset
+│
+├── models/
+│   └── final_pipeline.pkl               # Trained XGBoost pipeline
+│
+├── scripts/
+│   ├── HpCODE.ipynb                     # Jupyter notebook with    full code & analysis
+│   ├── final_pipeline.py                # Training script
+│   ├── app.py                           # Flask API for deployment
+│   └── test_flask_api.py                # Script to test API
+│
+├── artifacts/
+│   └── input_template.json              # Example JSON input for API
+│
+├── requirements.txt                     # Python dependencies
+└── README.md                            # Project summary, instructions, and folder overview
 
 
 \## ⚡ How to Run
